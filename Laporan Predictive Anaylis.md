@@ -96,7 +96,7 @@ Tabel 2. Jumlah nilai null tiap kolom
 Pada Tabel 2 kolom "Route" dam kolom "Total_Stops" masing-masing memiliki 1 nilai null
 
 
-![Gambar Memotret]()
+![Gambar Memotret](https://github.com/Awangnugrawan/Website-clan-Efootbal-Pro-Sulsel-Mobile/blob/main/Proyek%20web%20course%20dicoding/img/awang_epsm.png)
 
 
 
